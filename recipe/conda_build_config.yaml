@@ -835,8 +835,7 @@ rocksdb:
 root_base:
   - 6.32.2
 ruby:
-  - 2.5
-  - 2.6
+  - '3.1'
 r_base:
   - 4.1   # [win]
   - 4.3   # [not win]
