@@ -886,7 +886,7 @@ pulseaudio_client:
 pulseaudio_daemon:
   - '17.0'
 pybind11_abi:
-  - 4
+  - '11'
 python:
   # part of a zip_keys: python, is_python_min
   - 3.10.* *_cpython
