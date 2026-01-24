@@ -888,11 +888,8 @@ pulseaudio_daemon:
 pybind11_abi:
   - 4
 python:
-  # part of a zip_keys: python, is_python_min
-  - 3.10.* *_cpython
-  - 3.11.* *_cpython
-  - 3.12.* *_cpython
-  - 3.13.* *_cp313
+  - 3.14.* *_cp314
+# additional entries to add for zip_keys
 python_impl:
   - cpython
 python_min:
@@ -902,10 +899,6 @@ python_min:
 is_freethreading:
   - false
 is_python_min:
-  # part of a zip_keys: python, is_python_min
-  - true
-  - false
-  - false
   - false
 is_abi3:
   - true
