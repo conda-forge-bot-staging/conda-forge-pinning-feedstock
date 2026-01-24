@@ -417,7 +417,7 @@ hdf4:
 hdf5:
   - 1.14.3
 icu:
-  - '75'
+  - '78'
 idyntree:
   - '14'
 imath:
