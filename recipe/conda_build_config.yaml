@@ -681,7 +681,7 @@ libx86emu:
 libxcb:
   - '1'
 libxml2:
-  - 2
+  - '2.14'
 libxsmm:
   - 1
 libuuid:
