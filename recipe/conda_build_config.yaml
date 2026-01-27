@@ -349,7 +349,7 @@ flann:
 flatbuffers:
   - 24.12.23
 fmt:
-  - '10'
+  - '12.1'
 fontconfig:
   - 2
 freetype:
@@ -927,7 +927,7 @@ soapysdr:
 sox:
   - 14.4.2
 spdlog:
-  - '1.13'
+  - '1.17'
 sqlite:
   - 3
 srm_ifce:
