@@ -748,11 +748,10 @@ ntl:
 # we build for the oldest version possible of numpy for forward compatibility
 # we roughly follow NEP29 in choosing the oldest version
 numpy:
-  # part of a zip_keys: python, python_impl, numpy
-  - 1.22
-  - 1.22
-  - 1.23
-  - 1.26
+  - 2.0
+  - 2.0
+  - 2.0
+  - 2.0
 obake_devel:
   - '0.9'
 occt:
