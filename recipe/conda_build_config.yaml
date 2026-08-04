@@ -711,7 +711,7 @@ mkl_devel:
 mpg123:
   - '1.32'
 mpich:
-  - 4
+  - '5'
 mpfr:
   - 4
 mppp:
