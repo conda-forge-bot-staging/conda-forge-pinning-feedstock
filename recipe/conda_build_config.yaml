@@ -961,7 +961,7 @@ ucx:
 uhd:
   - 4.8.0
 urdfdom:
-  - '4.0'
+  - '6'
 vc:                    # [win]
   - 14                 # [win]
 vigra:
