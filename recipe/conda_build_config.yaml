@@ -1128,7 +1128,7 @@ ucx:
 uhd:
   - 4.10.0
 urdfdom:
-  - '5.1'
+  - '6'
 vc:                    # [win]
   - 14                 # [win]
 vgm:
